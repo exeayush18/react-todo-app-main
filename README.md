@@ -2,7 +2,7 @@
 
 # React Todo App.
 
-A complete todo application with all features implemented in this.
+A complete todo application with all features
 
 ---
 
